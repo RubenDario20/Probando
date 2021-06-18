@@ -1,0 +1,5 @@
+velocidad:0 Tiempo transcurrido:1 Distancia:0
+velocidad:0 Tiempo transcurrido:6 Distancia:0
+velocidad:0 Tiempo transcurrido:12 Distancia:0
+velocidad:0 Tiempo transcurrido:18 Distancia:0
+velocidad:0 Tiempo transcurrido:24 Distancia:0
